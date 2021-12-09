@@ -7,3 +7,6 @@
 [submodule "ElectricitySolarRecipes"]
 	path = ElectricitySolarRecipes
 	url = https://github.com/OCB7D2D/ElectricitySolarRecipes
+[submodule "ElectricityNoWires"]
+	path = ElectricityNoWires
+	url = https://github.com/OCB7D2D/ElectricityNoWires
