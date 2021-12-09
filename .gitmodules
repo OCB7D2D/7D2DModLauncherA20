@@ -10,3 +10,6 @@
 [submodule "ElectricityNoWires"]
 	path = ElectricityNoWires
 	url = https://github.com/OCB7D2D/ElectricityNoWires
+[submodule "ElectricityWireColors"]
+	path = ElectricityWireColors
+	url = https://github.com/OCB7D2D/ElectricityWireColors
