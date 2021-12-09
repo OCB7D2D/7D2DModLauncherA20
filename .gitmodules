@@ -13,3 +13,6 @@
 [submodule "ElectricityWireColors"]
 	path = ElectricityWireColors
 	url = https://github.com/OCB7D2D/ElectricityWireColors
+[submodule "ElectricityButtonsPush"]
+	path = ElectricityButtonsPush
+	url = https://github.com/OCB7D2D/ElectricityButtonsPush
