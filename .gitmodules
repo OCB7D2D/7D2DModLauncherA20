@@ -1,3 +1,6 @@
 [submodule "ClaimAutoRepair"]
 	path = ClaimAutoRepair
 	url = https://github.com/OCB7D2D/ClaimAutoRepair
+[submodule "ElectricityWorkarounds"]
+	path = ElectricityWorkarounds
+	url = https://github.com/OCB7D2D/ElectricityWorkarounds
