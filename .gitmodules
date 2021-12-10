@@ -16,3 +16,6 @@
 [submodule "ElectricityButtonsPush"]
 	path = ElectricityButtonsPush
 	url = https://github.com/OCB7D2D/ElectricityButtonsPush
+[submodule "ElectricityOverhaul"]
+	path = ElectricityOverhaul
+	url = https://github.com/OCB7D2D/ElectricityOverhaul
