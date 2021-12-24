@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="OcbSteelBarsA20EAC" />
+		<Description value="Wood, Iron and Steel Bar blocks (outer edge/corner and center edge/corner) with looting area (replacing original recipes). EAC compatible version (bullets don't collide with bars)." />
+		<Website value="https://github.com/mgreter/7D72-ocbSteelBars" />
+		<Author value="ocbMaurice" />
+		<Version value="0.8.1" />
+	</ModInfo>
+</xml>
