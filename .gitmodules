@@ -19,3 +19,15 @@
 [submodule "ElectricityOverhaul"]
 	path = ElectricityOverhaul
 	url = https://github.com/OCB7D2D/ElectricityOverhaul
+[submodule "ElectricityLamps"]
+	path = ElectricityLamps
+	url = https://github.com/OCB7D2D/ElectricityLamps
+[submodule "ElectricityLampsPOI"]
+	path = ElectricityLampsPOI
+	url = https://github.com/OCB7D2D/ElectricityLampsPOI
+[submodule "ElectricityLightShadowSoft"]
+	path = ElectricityLightShadowSoft
+	url = https://github.com/OCB7D2D/ElectricityLightShadowSoft
+[submodule "ElectricityLightFixes"]
+	path = ElectricityLightFixes
+	url = https://github.com/OCB7D2D/ElectricityLightFixes
