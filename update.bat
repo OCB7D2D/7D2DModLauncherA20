@@ -58,4 +58,9 @@ git fetch
 git checkout tags/0.1.1
 cd ..
 
+cd OcbWayPointIcons
+git fetch
+git checkout tags/0.1.0
+cd ..
+
 pause

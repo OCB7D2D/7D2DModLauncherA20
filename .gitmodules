@@ -34,3 +34,6 @@
 [submodule "ElectricityWindPower"]
 	path = ElectricityWindPower
 	url = https://github.com/OCB7D2D/ElectricityWindPower
+[submodule "OcbWayPointIcons"]
+	path = OcbWayPointIcons
+	url = https://github.com/OCB7D2D/OcbWayPointIcons
