@@ -37,3 +37,6 @@
 [submodule "OcbWayPointIcons"]
 	path = OcbWayPointIcons
 	url = https://github.com/OCB7D2D/OcbWayPointIcons
+[submodule "OcbPinRecipes"]
+	path = OcbPinRecipes
+	url = https://github.com/OCB7D2D/OcbPinRecipes

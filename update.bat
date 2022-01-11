@@ -63,4 +63,9 @@ git fetch
 git checkout tags/0.1.0
 cd ..
 
+cd OcbPinRecipes
+git fetch
+git checkout tags/0.4.0
+cd ..
+
 pause
