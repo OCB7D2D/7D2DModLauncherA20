@@ -50,7 +50,7 @@ cd ..
 
 cd ElectricityWorkarounds
 git fetch
-git checkout tags/0.2.0
+git checkout tags/0.3.0
 cd ..
 
 pause
