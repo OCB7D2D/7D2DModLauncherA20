@@ -68,4 +68,9 @@ git fetch
 git checkout tags/0.4.0
 cd ..
 
+cd OcbStopFuelWaste
+git fetch
+git checkout tags/0.1.1
+cd ..
+
 pause

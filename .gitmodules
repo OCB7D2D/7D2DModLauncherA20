@@ -40,3 +40,6 @@
 [submodule "OcbPinRecipes"]
 	path = OcbPinRecipes
 	url = https://github.com/OCB7D2D/OcbPinRecipes
+[submodule "OcbStopFuelWaste"]
+	path = OcbStopFuelWaste
+	url = https://github.com/OCB7D2D/OcbStopFuelWaste
