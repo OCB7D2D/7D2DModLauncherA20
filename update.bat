@@ -53,4 +53,9 @@ git fetch
 git checkout tags/0.3.0
 cd ..
 
+cd ElectricityWindPower
+git fetch
+git checkout tags/0.1.1
+cd ..
+
 pause

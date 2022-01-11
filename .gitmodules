@@ -31,3 +31,6 @@
 [submodule "ElectricityLightFixes"]
 	path = ElectricityLightFixes
 	url = https://github.com/OCB7D2D/ElectricityLightFixes
+[submodule "ElectricityWindPower"]
+	path = ElectricityWindPower
+	url = https://github.com/OCB7D2D/ElectricityWindPower
