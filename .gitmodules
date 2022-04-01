@@ -43,3 +43,18 @@
 [submodule "OcbStopFuelWaste"]
 	path = OcbStopFuelWaste
 	url = https://github.com/OCB7D2D/OcbStopFuelWaste
+[submodule "OcbPrettyGrass"]
+	path = OcbPrettyGrass
+	url = https://github.com/OCB7D2D/OcbPrettyGrass
+[submodule "OcbCrookedDeco"]
+	path = OcbCrookedDeco
+	url = https://github.com/OCB7D2D/OcbCrookedDeco
+[submodule "OcbPinRecipesUiTdrHart"]
+	path = OcbPinRecipesUiTdrHart
+	url = https://github.com/OCB7D2D/OcbPinRecipesUiTdrHart
+[submodule "OcbNoSuddenExit"]
+	path = OcbNoSuddenExit
+	url = https://github.com/OCB7D2D/OcbNoSuddenExit
+[submodule "OcbBetterFPV"]
+	path = OcbBetterFPV
+	url = https://github.com/OCB7D2D/OcbBetterFPV
