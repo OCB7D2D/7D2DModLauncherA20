@@ -1,3 +1,5 @@
+@echo off
+
 cd ClaimAutoRepair
 git fetch
 git checkout tags/0.7.1
@@ -35,7 +37,7 @@ cd ..
 
 cd ElectricityOverhaul
 git fetch
-git checkout tags/0.9.1
+git checkout tags/0.9.4
 cd ..
 
 cd ElectricitySolarRecipes
@@ -71,6 +73,21 @@ cd ..
 cd OcbStopFuelWaste
 git fetch
 git checkout tags/0.2.1
+cd ..
+
+cd OcbNoSuddenExit
+git fetch
+git checkout tags/0.1.0
+cd ..
+
+cd OcbCrookedDeco
+git fetch
+git checkout tags/0.2.0
+cd ..
+
+cd OcbPrettyGrass
+git fetch
+git checkout tags/0.1.0
 cd ..
 
 pause
