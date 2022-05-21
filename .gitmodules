@@ -58,3 +58,6 @@
 [submodule "OcbBetterFPV"]
 	path = OcbBetterFPV
 	url = https://github.com/OCB7D2D/OcbBetterFPV
+[submodule "OcbRemoteDescription"]
+	path = OcbRemoteDescription
+	url = https://github.com/OCB7D2D/OcbRemoteDescription
