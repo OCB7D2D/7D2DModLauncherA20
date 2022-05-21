@@ -2,12 +2,12 @@
 
 cd ClaimAutoRepair
 git fetch
-git checkout tags/0.7.1
+git checkout tags/0.7.5
 cd ..
 
 cd ElectricityButtonsPush
 git fetch
-git checkout tags/0.5.0
+git checkout tags/0.6.0
 cd ..
 
 cd ElectricityLamps
@@ -37,7 +37,7 @@ cd ..
 
 cd ElectricityOverhaul
 git fetch
-git checkout tags/0.9.4
+git checkout tags/1.0.0
 cd ..
 
 cd ElectricitySolarRecipes
@@ -57,7 +57,7 @@ cd ..
 
 cd ElectricityWindPower
 git fetch
-git checkout tags/0.2.0
+git checkout tags/0.3.0
 cd ..
 
 cd OcbWayPointIcons
@@ -67,7 +67,7 @@ cd ..
 
 cd OcbPinRecipes
 git fetch
-git checkout tags/0.4.1
+git checkout tags/0.5.2
 cd ..
 
 cd OcbStopFuelWaste
@@ -86,6 +86,11 @@ git checkout tags/0.2.0
 cd ..
 
 cd OcbPrettyGrass
+git fetch
+git checkout tags/0.1.0
+cd ..
+
+cd OcbRemoteDescription
 git fetch
 git checkout tags/0.1.0
 cd ..
