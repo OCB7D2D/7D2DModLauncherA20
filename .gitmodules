@@ -61,3 +61,9 @@
 [submodule "OcbRemoteDescription"]
 	path = OcbRemoteDescription
 	url = https://github.com/OCB7D2D/OcbRemoteDescription
+[submodule "OcbRemoteTurretControl"]
+	path = OcbRemoteTurretControl
+	url = https://github.com/OCB7D2D/OcbRemoteTurretControl
+[submodule "OcbPlantGrowInfo"]
+	path = OcbPlantGrowInfo
+	url = https://github.com/OCB7D2D/OcbPlantGrowInfo

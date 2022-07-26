@@ -52,7 +52,7 @@ cd ..
 
 cd ElectricityWorkarounds
 git fetch
-git checkout tags/0.3.0
+git checkout tags/0.3.3
 cd ..
 
 cd ElectricityWindPower
@@ -62,17 +62,17 @@ cd ..
 
 cd OcbWayPointIcons
 git fetch
-git checkout tags/0.1.0
+git checkout tags/0.2.0
 cd ..
 
 cd OcbPinRecipes
 git fetch
-git checkout tags/0.5.2
+git checkout tags/0.6.0
 cd ..
 
 cd OcbStopFuelWaste
 git fetch
-git checkout tags/0.2.1
+git checkout tags/0.2.2
 cd ..
 
 cd OcbNoSuddenExit
@@ -82,7 +82,7 @@ cd ..
 
 cd OcbCrookedDeco
 git fetch
-git checkout tags/0.2.0
+git checkout tags/0.3.0
 cd ..
 
 cd OcbPrettyGrass
@@ -90,9 +90,19 @@ git fetch
 git checkout tags/0.1.0
 cd ..
 
+cd OcbPlantGrowInfo
+git fetch
+git checkout tags/0.1.1
+cd ..
+
 cd OcbRemoteDescription
 git fetch
 git checkout tags/0.1.0
+cd ..
+
+cd OcbRemoteTurretControl
+git fetch
+git checkout tags/0.1.1
 cd ..
 
 pause
