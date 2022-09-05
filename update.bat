@@ -110,4 +110,9 @@ git fetch
 git checkout tags/0.2.1
 cd ..
 
+cd OcbLightEnablerPOI
+git fetch
+git checkout tags/0.1.0
+cd ..
+
 pause
