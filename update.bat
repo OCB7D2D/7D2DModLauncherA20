@@ -37,7 +37,7 @@ cd ..
 
 cd ElectricityOverhaul
 git fetch
-git checkout tags/1.0.0
+git checkout tags/1.0.2
 cd ..
 
 cd ElectricitySolarRecipes
@@ -57,7 +57,7 @@ cd ..
 
 cd ElectricityWindPower
 git fetch
-git checkout tags/0.3.0
+git checkout tags/0.3.1
 cd ..
 
 cd OcbWayPointIcons
@@ -67,7 +67,7 @@ cd ..
 
 cd OcbPinRecipes
 git fetch
-git checkout tags/0.6.0
+git checkout tags/0.6.1
 cd ..
 
 cd OcbStopFuelWaste
@@ -87,7 +87,7 @@ cd ..
 
 cd OcbPrettyGrass
 git fetch
-git checkout tags/0.1.0
+git checkout tags/0.1.2
 cd ..
 
 cd OcbPlantGrowInfo
@@ -102,7 +102,7 @@ cd ..
 
 cd OcbRemoteTurretControl
 git fetch
-git checkout tags/0.1.1
+git checkout tags/0.1.3
 cd ..
 
 pause
