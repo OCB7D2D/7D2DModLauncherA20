@@ -67,3 +67,6 @@
 [submodule "OcbPlantGrowInfo"]
 	path = OcbPlantGrowInfo
 	url = https://github.com/OCB7D2D/OcbPlantGrowInfo
+[submodule "ElectricityHalfFencePost"]
+	path = ElectricityHalfFencePost
+	url = https://github.com/OCB7D2D/ElectricityHalfFencePost

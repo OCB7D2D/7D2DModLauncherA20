@@ -105,4 +105,9 @@ git fetch
 git checkout tags/0.1.3
 cd ..
 
+cd ElectricityHalfFencePost
+git fetch
+git checkout tags/0.2.1
+cd ..
+
 pause
