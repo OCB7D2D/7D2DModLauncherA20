@@ -37,7 +37,7 @@ cd ..
 
 cd ElectricityOverhaul
 git fetch
-git checkout tags/1.0.2
+git checkout tags/1.0.4
 cd ..
 
 cd ElectricitySolarRecipes
@@ -67,7 +67,7 @@ cd ..
 
 cd OcbPinRecipes
 git fetch
-git checkout tags/0.6.1
+git checkout tags/0.6.2
 cd ..
 
 cd OcbStopFuelWaste
