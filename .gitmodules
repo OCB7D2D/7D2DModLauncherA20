@@ -73,3 +73,6 @@
 [submodule "OcbLightEnablerPOI"]
 	path = OcbLightEnablerPOI
 	url = https://github.com/OCB7D2D/OcbLightEnablerPOI
+[submodule "LawnMower"]
+	path = LawnMower
+	url = https://github.com/OCB7D2D/LawnMower

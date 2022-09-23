@@ -115,4 +115,9 @@ git fetch
 git checkout tags/0.1.0
 cd ..
 
+cd LawnMower
+git fetch
+git checkout tags/2.0.4
+cd ..
+
 pause
